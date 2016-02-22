@@ -1,0 +1,6 @@
+{
+  "name": "BlogListPage",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./BlogListPage.js"
+}

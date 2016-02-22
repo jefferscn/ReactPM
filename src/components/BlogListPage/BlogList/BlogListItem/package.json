@@ -1,0 +1,6 @@
+{
+  "name": "BlogListItem",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./BlogListItem.js"
+}

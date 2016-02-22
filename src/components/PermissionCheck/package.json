@@ -1,0 +1,6 @@
+{
+  "name": "PermissionCheck",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./PermissionCheck.js"
+}
